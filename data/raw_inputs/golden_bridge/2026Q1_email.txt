@@ -1,0 +1,76 @@
+발신: James Park <james.park@goldenbridgecap.com>
+수신: pi_team@eugeneasset.co.kr
+일자: 2026-04-20
+제목: Golden Bridge Asia Tech Fund III - Q1 2026 Update
+
+Dear LPs,
+
+Please find the Q1 2026 quarterly update for Golden Bridge Asia Tech Fund III.
+
+1. Fund Summary
+- Fund Size: USD 1.2B
+- Vintage: 2024
+- Strategy: Asia-Pacific Late-Stage Technology
+- GP Commitment: USD 24M (2%)
+- Eugene Commitment: USD 8M
+- Total Called: 45% (USD 540M / Eugene: USD 3.6M)
+- Fund Term: 2024-2034 (10yr + 2yr extension)
+- Key Person: James Park (Founder & MP), Linda Zhao (Partner)
+- Administrator: SS&C Technologies
+- Auditor: Deloitte
+
+2. Performance (as of Mar 31, 2026)
+- Total NAV: USD 620M
+- Eugene NAV: USD 9.8M
+- TVPI: 1.31x
+- DPI: 0.15x
+- Net IRR: 28.4%
+
+3. LP Schedule
+- Korean National Pension: USD 150M (12.5%)
+- Samsung Life: USD 80M (6.7%)
+- Eugene Asset Management: USD 8M (0.67%)
+- Other LPs (18): USD 938M (78.1%)
+- GP: USD 24M (2.0%)
+
+4. Capital Calls
+- 1st Call: 2024-06-01, 20%, USD 240M (Eugene USD 1.6M) - Initial investments
+- 2nd Call: 2024-12-15, 15%, USD 180M (Eugene USD 1.2M) - DataFlow acquisition
+- 3rd Call: 2026-02-01, 10%, USD 120M (Eugene USD 0.8M) - Follow-on investments
+
+5. Distributions
+- 1st Distribution: 2025-09-30, USD 85M (Eugene USD 0.57M) - Partial exit NeoBank IPO
+
+6. Portfolio Highlights
+
+[DataFlow AI] - Enterprise AI/ML Platform (Singapore)
+- ARR reached USD 120M (+85% YoY)
+- Closed Series D at USD 2.8B valuation (entry at USD 800M)
+- MOIC: 3.5x on cost basis
+- IPO preparation underway, targeting Q4 2026
+
+[NeoBank] - Digital Banking (Indonesia)
+- Completed IPO on IDX in Sept 2025 at USD 3.2B market cap
+- Partial exit: sold 40% of position at 2.8x MOIC
+- Remaining 60% in lock-up until Sept 2026
+
+[CloudSecure] - Cybersecurity SaaS (Korea)
+- Revenue: USD 45M (+60% YoY)
+- Net Retention Rate: 135%
+- Series C round closed at USD 650M valuation
+- Expanding into Japan market
+
+[QuickDeliver] - Logistics Tech (Vietnam)
+- GMV: USD 800M (+120% YoY)
+- Achieved unit economics breakeven in Q4 2025
+- Market leader in Vietnam last-mile delivery
+
+7. Key Events
+- DataFlow AI IPO expected Q4 2026 (potential 4-5x return)
+- NeoBank lock-up expiry Sept 2026 (plan to sell remaining)
+- Next capital call expected Q3 2026 (10%, for new investment pipeline)
+
+Best regards,
+James Park
+Founder & Managing Partner
+Golden Bridge Capital

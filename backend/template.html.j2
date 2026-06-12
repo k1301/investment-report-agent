@@ -1,0 +1,118 @@
+<div class="report">
+<h1>{{ fund_name | default("-") }} 투자분석서</h1>
+
+<table class="summary">
+  <tr><th>NAV (당사)</th><th>TVPI</th><th>Net IRR</th><th>기준일</th></tr>
+  <tr>
+    <td>{{ summary.nav | default("-") }}</td>
+    <td>{{ summary.tvpi | default("-") }}</td>
+    <td>{{ summary.irr | default("-") }}</td>
+    <td>{{ summary.as_of | default("-") }}</td>
+  </tr>
+</table>
+
+<h2>1. 펀드개요</h2>
+<table>
+  <tr><th>항목</th><th>내용</th></tr>
+  <tr><td>펀드명</td><td>{{ overview.fund_name | default("-") }}</td></tr>
+  <tr><td>펀드유형</td><td>{{ overview.fund_type | default("-") }}</td></tr>
+  <tr><td>GP</td><td>{{ overview.gp | default("-") }}</td></tr>
+  <tr><td>빈티지</td><td>{{ overview.vintage | default("-") }}</td></tr>
+  <tr><td>펀드규모</td><td>{{ overview.fund_size | default("-") }}</td></tr>
+  <tr><td>당사 약정</td><td>{{ overview.our_commitment | default("-") }}</td></tr>
+  <tr><td>펀드기간</td><td>{{ overview.fund_period | default("-") }}</td></tr>
+  <tr><td>투자전략</td><td>{{ overview.strategy | default("-") }}</td></tr>
+  <tr><td>보수구조</td><td>{{ overview.fee_structure | default("-") }}</td></tr>
+  <tr><td>GP출자</td><td>{{ overview.gp_commitment | default("-") }}</td></tr>
+  <tr><td>Key Man</td><td>{{ overview.key_man | default("-") }}</td></tr>
+  <tr><td>사무수탁/수탁은행</td><td>{{ overview.custodian | default("-") }}</td></tr>
+</table>
+
+<h2>2. 조합원명부</h2>
+<table>
+  <tr><th>LP명</th><th>약정액</th><th>비율</th><th>유형</th></tr>
+  {% for lp in lps %}
+  <tr>
+    <td>{{ lp.name | default("-") }}</td>
+    <td>{{ lp.commitment | default("-") }}</td>
+    <td>{{ lp.ratio | default("-") }}</td>
+    <td>{{ lp.type | default("-") }}</td>
+  </tr>
+  {% else %}
+  <tr><td colspan="4">해당 없음</td></tr>
+  {% endfor %}
+  {% if lp_total %}
+  <tr style="font-weight:bold">
+    <td>합계</td>
+    <td>{{ lp_total.commitment | default("-") }}</td>
+    <td>{{ lp_total.ratio | default("100%") }}</td>
+    <td>-</td>
+  </tr>
+  {% endif %}
+</table>
+
+<h2>3. 출자현황</h2>
+<table>
+  <tr><th>차수</th><th>일자</th><th>콜비율</th><th>전체금액</th><th>당사금액</th><th>누적비율</th><th>용도</th></tr>
+  {% for c in capital_calls %}
+  <tr>
+    <td>{{ c.round | default("-") }}</td>
+    <td>{{ c.date | default("-") }}</td>
+    <td>{{ c.call_ratio | default("-") }}</td>
+    <td>{{ c.total_amount | default("-") }}</td>
+    <td>{{ c.our_amount | default("-") }}</td>
+    <td>{{ c.cumulative_ratio | default("-") }}</td>
+    <td>{{ c.purpose | default("-") }}</td>
+  </tr>
+  {% else %}
+  <tr><td colspan="7">해당 없음</td></tr>
+  {% endfor %}
+</table>
+
+<h2>4. 회수현황</h2>
+<table>
+  <tr><th>차수</th><th>일자</th><th>유형</th><th>전체금액</th><th>당사금액</th><th>출처</th></tr>
+  {% for d in distributions %}
+  <tr>
+    <td>{{ d.round | default("-") }}</td>
+    <td>{{ d.date | default("-") }}</td>
+    <td>{{ d.type | default("-") }}</td>
+    <td>{{ d.total_amount | default("-") }}</td>
+    <td>{{ d.our_amount | default("-") }}</td>
+    <td>{{ d.source | default("-") }}</td>
+  </tr>
+  {% else %}
+  <tr><td colspan="6">해당 없음</td></tr>
+  {% endfor %}
+</table>
+
+<h2>5. 배당금/수익현황</h2>
+<table>
+  <tr><th>기간</th><th>배당일</th><th>유형</th><th>전체금액</th><th>당사금액</th><th>출처</th></tr>
+  {% for d in dividends %}
+  <tr>
+    <td>{{ d.period | default("-") }}</td>
+    <td>{{ d.date | default("-") }}</td>
+    <td>{{ d.type | default("-") }}</td>
+    <td>{{ d.total_amount | default("-") }}</td>
+    <td>{{ d.our_amount | default("-") }}</td>
+    <td>{{ d.source | default("-") }}</td>
+  </tr>
+  {% else %}
+  <tr><td colspan="6">해당 없음</td></tr>
+  {% endfor %}
+</table>
+
+<h2>6. 코멘트</h2>
+{% for q in comments %}
+<h3>{{ q.quarter | default("-") }}{% if q.source %} (출처: {{ q.source }}){% endif %}</h3>
+{% if q.events %}
+<ul>
+  {% for ev in q.events %}<li>{{ ev }}</li>{% endfor %}
+</ul>
+{% endif %}
+{% if q.narrative %}<p>{{ q.narrative }}</p>{% endif %}
+{% else %}
+<p>해당 없음</p>
+{% endfor %}
+</div>

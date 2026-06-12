@@ -1,0 +1,82 @@
+Asia Pacific Mezzanine Fund V
+Quarterly Report - Q1 2026
+
+[Fund Overview]
+Fund Name: Asia Pacific Mezzanine Fund V
+Fund Type: Mezzanine / Private Credit
+GP: APM Capital Partners
+Vintage: 2023
+Fund Size: USD 600,000,000
+Eugene Commitment: USD 3,000,000
+Fund Term: 7 years (2023-2030) + 1yr extension
+Strategy: Asia-Pacific senior subordinated debt, preferred equity, structured notes
+Target Return: 12-15% net IRR (8-10% current yield + equity kicker)
+Management Fee: 1.5% on committed (inv period), 1.0% on deployed (post)
+Carried Interest: 15% above 8% preferred return
+GP Commit: USD 12,000,000 (2%)
+Key Person: Richard Tan (Founder), Yuki Tanaka (Head of Credit)
+Administrator: Citco Fund Services
+Auditor: EY
+
+[LP Schedule]
+LP Name | Commitment (USD) | Share | Type
+Korea Post | 50,000,000 | 8.3% | Sovereign
+Samsung Fire & Marine | 30,000,000 | 5.0% | Insurance
+Kyobo Life | 25,000,000 | 4.2% | Insurance
+Eugene Asset Management | 3,000,000 | 0.5% | Financial Institution
+Other LPs (15) | 480,000,000 | 80.0% | Various
+GP | 12,000,000 | 2.0% | GP
+
+[Capital Calls]
+# | Date | % | Total (USD) | Eugene (USD) | Cumulative | Purpose
+1 | 2023-07-01 | 20% | 120,000,000 | 600,000 | 20% | Initial deployments (3 deals)
+2 | 2024-01-15 | 15% | 90,000,000 | 450,000 | 35% | 2 new deals + fees
+3 | 2024-08-01 | 15% | 90,000,000 | 450,000 | 50% | 3 new deals
+4 | 2025-03-01 | 10% | 60,000,000 | 300,000 | 60% | 2 new deals
+5 | 2025-10-01 | 10% | 60,000,000 | 300,000 | 70% | 2 new deals + follow-on
+6 | 2026-02-15 | 10% | 60,000,000 | 300,000 | 80% | 2 new deals
+
+[Distributions]
+# | Date | Type | Total (USD) | Eugene (USD) | Source
+1 | 2024-06-30 | Interest Income | 8,400,000 | 42,000 | Semi-annual coupon payments
+2 | 2024-12-31 | Interest Income | 14,200,000 | 71,000 | Semi-annual coupon payments
+3 | 2025-06-30 | Interest + Principal | 32,500,000 | 162,500 | Coupons + SunTech early repayment
+4 | 2025-12-31 | Interest Income | 18,600,000 | 93,000 | Semi-annual coupon payments
+5 | 2026-03-31 | Interest Income | 9,800,000 | 49,000 | Q1 coupon payments
+
+[NAV & Performance - Mar 31, 2026]
+Total NAV: USD 456,000,000
+Eugene NAV: USD 3,420,000
+TVPI: 1.25x
+DPI: 0.23x (USD 417,500 cumulative distributions / USD 2,400,000 called)
+Net IRR: 14.2%
+Current Yield: 9.1% (annualized)
+Weighted Average Life: 3.2 years
+
+[Portfolio Summary]
+Deal | Country | Type | Deployed (USD M) | Coupon | Maturity | LTV | Status
+SunTech Solar | Korea | Sr. Sub Note | 45 | 11.0% | Repaid | - | Fully repaid (2025-06)
+Metro Logistics | Singapore | Pref Equity | 55 | 10.5% + PIK 2% | 2027-06 | 52% | Current
+Horizon Hotels | Thailand | Mezz Loan | 40 | 12.0% | 2026-12 | 58% | Current
+Pacific Retail | Australia | Sr. Sub Note | 60 | 9.5% + warrants | 2028-03 | 48% | Current
+IndoTower | Indonesia | Pref Equity | 50 | 11.0% + PIK 1.5% | 2027-09 | 45% | Current
+VietSteel | Vietnam | Mezz Loan | 65 | 13.0% | 2027-12 | 55% | Current
+K-Pharma | Korea | Convertible | 35 | 8.0% + conversion | 2028-06 | 40% | Current
+Japan Office REIT | Japan | Pref Equity | 55 | 7.5% + upside | 2027-03 | 50% | Current
+GreenEnergy Aus | Australia | Sr. Sub Note | 45 | 10.0% + warrants | 2028-09 | 42% | New (Q1 2026)
+TechBridge India | India | Mezz Loan | 30 | 14.0% | 2028-03 | 48% | New (Q1 2026)
+
+[Credit Quality]
+- No defaults or impairments to date
+- All interest payments current
+- Weighted average LTV: 48.6% (conservative)
+- 1 early repayment (SunTech Solar - positive for IRR)
+
+[Commentary - Q1 2026]
+- Portfolio performing well, all positions current on interest payments
+- SunTech Solar full repayment in 2025 generated 1.4x MOIC including early prepayment premium
+- Horizon Hotels approaching maturity (Dec 2026) - expect full repayment at par + accrued
+- K-Pharma conversion option becoming valuable (company revenue +80% YoY, potential IPO 2027)
+- New deployments: GreenEnergy Australia (solar farm financing) and TechBridge India (IT services)
+- Market environment favorable: credit spreads tightening but our existing deals locked at higher rates
+- Pipeline: 3 deals in advanced due diligence (total USD 120M), targeting Q2/Q3 2026 close

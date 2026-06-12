@@ -1,0 +1,66 @@
+Nordic Infrastructure Partners Fund II
+Quarterly Report - Q1 2026
+
+[Fund Information]
+Fund Name: Nordic Infrastructure Partners Fund II
+Fund Type: Infrastructure (Core-Plus)
+GP: Nordic Infrastructure Partners AB
+Vintage: 2023
+Fund Size: EUR 2,500,000,000
+Eugene Commitment: EUR 10,000,000
+Fund Term: 12 years (2023-2035) + 3yr extension
+Strategy: Northern European Infrastructure (Energy Transition, Digital, Transport)
+Management Fee: 1.5% on committed (inv period), 1.0% on invested (post)
+Carried Interest: 15% above 6% preferred return (European waterfall)
+GP Commit: EUR 50,000,000 (2%)
+Key Person: Erik Lindqvist (CEO), Anna Johansson (CIO)
+Administrator: Apex Group
+Auditor: PwC
+
+[LP Schedule]
+LP Name | Commitment (EUR) | Share | Type
+ABP (Netherlands) | 300,000,000 | 12.0% | Pension
+Norwegian Gov Pension Fund | 250,000,000 | 10.0% | Sovereign Wealth
+Korean National Pension | 200,000,000 | 8.0% | Pension
+Samsung Life Insurance | 50,000,000 | 2.0% | Insurance
+Eugene Asset Management | 10,000,000 | 0.4% | Financial Institution
+Other LPs (12) | 1,640,000,000 | 65.6% | Various
+GP | 50,000,000 | 2.0% | GP
+
+[Capital Activity]
+# | Date | % | Total (EUR) | Eugene (EUR) | Cumulative | Purpose
+1 | 2023-09-01 | 15% | 375,000,000 | 1,500,000 | 15% | NordWind Energy acquisition
+2 | 2024-03-15 | 10% | 250,000,000 | 1,000,000 | 25% | FibreNet acquisition
+3 | 2024-11-01 | 10% | 250,000,000 | 1,000,000 | 35% | Baltic Ports investment
+4 | 2025-06-15 | 10% | 250,000,000 | 1,000,000 | 45% | E-Charge Nordic
+5 | 2026-02-01 | 5% | 125,000,000 | 500,000 | 50% | Follow-on (NordWind expansion)
+
+[Distributions]
+# | Date | Type | Total (EUR) | Eugene (EUR) | Source
+1 | 2025-03-31 | Dividend | 45,000,000 | 180,000 | NordWind Energy + FibreNet dividends
+2 | 2025-12-31 | Dividend | 62,000,000 | 248,000 | Portfolio-wide annual dividends
+
+[NAV & Performance - Mar 31, 2026]
+Total NAV: EUR 1,480,000,000
+Eugene NAV: EUR 12,100,000
+TVPI: 1.22x
+DPI: 0.09x
+RVPI: 1.13x
+Net IRR: 11.8%
+Benchmark (MSCI Infra): 8.2% (outperforming by 360bps)
+
+[Portfolio Summary]
+Asset | Sector | Acquisition | Cost (EUR M) | Ownership | EV (EUR M) | Status
+NordWind Energy | Offshore Wind | 2023-09 | 450 | 80% | 620 | Operational - Phase 2 construction
+FibreNet | Digital/Fibre | 2024-03 | 320 | 65% | 380 | Operational - Expanding coverage
+Baltic Ports | Transport | 2024-11 | 280 | 45% | 290 | Operational - Capex phase
+E-Charge Nordic | EV Charging | 2025-06 | 180 | 70% | 210 | Growth phase
+Total | | | 1,230 | | 1,500 |
+
+[Commentary - Q1 2026]
+- NordWind Energy Phase 2 construction on schedule (450MW addition, completion H2 2027)
+- FibreNet FTTH penetration reached 2.1M households (+25% YoY)
+- Baltic Ports container throughput +12% YoY despite macro headwinds
+- E-Charge Nordic deployed 3,200 new charging points in Q1 (total: 18,500)
+- EU energy transition subsidies confirmed for NordWind Phase 2 (EUR 85M grant)
+- FX impact: EUR/KRW favorable, adding ~0.8% to KRW-denominated returns

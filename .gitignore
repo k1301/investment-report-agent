@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Generated reports
+output_*.html
+투자분석서_*.html
+투자분석서_*.pdf
+
+# Internal documents
+*.docx
+SESSION_HANDOFF.md
+
+# Deploy artifacts
+backend/.agentcore_arn
+
+# Personal demo notes
+DEMO_NOTES.md

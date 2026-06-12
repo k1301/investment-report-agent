@@ -1,0 +1,49 @@
+Pacific Growth Partners Fund IV
+Quarterly Report - Q1 2026
+
+[Fund Summary]
+Fund Name: Pacific Growth Partners Fund IV
+Fund Type: Blind Pool (Growth Equity)
+GP: Pacific Growth Partners LLC
+Vintage: 2025
+Fund Size: USD 800,000,000
+Term: 10 years (2025-2035) + 2yr extension
+Strategy: Asia-Pacific Growth Equity
+Target Sectors: Technology, Healthcare, Consumer
+Mgmt Fee: 2.0% on committed capital (inv period), 1.5% on invested (post)
+Carried Interest: 20% above 8% preferred return
+GP Commit: USD 16,000,000 (2%)
+Key Person: David Kim (MP), Sarah Chen (Partner)
+Administrator: Citco Fund Services
+Auditor: KPMG
+
+[LP Schedule]
+LP Name | Commitment (USD) | Share | Type
+Korean National Pension | 80,000,000 | 10.0% | Pension
+Samsung Life Insurance | 50,000,000 | 6.25% | Insurance
+Eugene Asset Mgmt | 5,000,000 | 0.625% | Financial Institution
+Other LPs (22) | 649,000,000 | 81.125% | Various
+GP | 16,000,000 | 2.0% | GP
+
+[Capital Calls]
+# | Date | % | Total | Eugene | Cumulative | Purpose
+1 | 2025-04-01 | 15% | 120,000,000 | 750,000 | 15% | Working capital + Pipeline
+2 | 2025-09-15 | 10% | 80,000,000 | 500,000 | 25% | TechVista investment
+3 | 2026-01-20 | 10% | 80,000,000 | 500,000 | 35% | CloudMatrix acquisition
+
+[Distributions]
+None to date.
+
+[NAV & Performance - Mar 31, 2026]
+Total NAV: USD 310,000,000
+Eugene NAV: USD 6,200,000
+TVPI: 1.18x
+DPI: 0.00x
+RVPI: 1.18x
+Net IRR: 22.5% (since inception, early stage)
+
+[Portfolio]
+Company | Sector | Date | Cost | Ownership | Entry Val | Current Val | Status
+TechVista | SaaS | 2025-09 | 60M | 12% | 500M | 750M | Holding
+MedGenix | Biotech | 2025-11 | 40M | 8% | 500M | 550M | Holding
+CloudMatrix | Cloud | 2026-01 | 85M | 15% | 570M | 570M | New/Holding
